@@ -43,7 +43,7 @@ With machine learning models becoming larger and larger, multi-device execution 
 <img src="images/partitioned.png" width="300">
 </p>
 
-Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your task is to design an algorithm capable of efficiently and effectively performing this task.
+Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
 
 As input, the algorithm will accept a graph where nodes are associated with one or more *strategies*.  Each strategy is annotated with a corresponding *node cost*, and certain pairs of node strategies come with a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
