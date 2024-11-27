@@ -1,6 +1,6 @@
 # The ASPLOS 2025 / EuroSys 2025 Contest on Intra-Operator Parallelism for Distributed Deep Learning
 
-Teams from around the globe are invited to contribute submissions toward solving *intra-operator parallelism for distributed deep learning*, a combinatorial optimization problem that arises during the compilation of Machine Learning models onto the resources of multi-device hardware accelerators.  Prizes will be awarded to top-ranking teams who commit to open-sourcing their solver prior to next year's conference.
+Teams from around the globe are invited to contribute submissions toward solving *intra-operator parallelism for distributed deep learning*, a combinatorial optimization problem that arises during the compilation of Machine Learning models onto the resources of multi-device hardware accelerators.  Prizes will be awarded to top-ranking teams who commit to open-sourcing their solver prior to the following year's conference.
 
 <div align="center">
 
