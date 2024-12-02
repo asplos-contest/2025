@@ -2,7 +2,7 @@
 <img src="images/asplos-2025-contest-logo.png">
 </p>
 
-The [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) and [EuroSys 2025](https://2025.eurosys.org/) organizers are pleased to announce the **ASPLOS 2025 / EuroSys 2025 Contest Track**:
+The [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) and [EuroSys 2025](https://2025.eurosys.org/) organizers are pleased to announce **The ASPLOS 2025 / EuroSys 2025 Contest Track**:
 a challenging, multi-month competition focused on advancing the state-of-the-art in multidisciplinary computer systems research.
 The high-level goals of this track are threefold:
 
