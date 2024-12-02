@@ -25,7 +25,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | Date       | Event                                                                  |
 | ---------- | ---------------------------------------------------------------------- |
 | 2024-11-25 | Contest Announced                                                      |
-| 2024-12-01 | Contest GitHub Repository & Benchmark Subset Released *(temporarily delayed -- stay tuned!)*                 |
+| 2024-12-02 | Contest GitHub Repository & Benchmark Subset Released                  |
 | 2025-02-15 | Contest Registrations & Preliminary Submissions Due<sup>*</sup>        |
 | 2025-03-01 | Contest Final Submissions Due<sup>*</sup>                              |
 | 2025-03-31 | Contest Special Session during ASPLOS 2025 / EuroSys 2025 Workshops    |
@@ -45,7 +45,7 @@ With machine learning models becoming larger and larger, multi-device execution 
 
 Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
 
-As input, the algorithm will accept a graph where nodes are associated with one or more *strategies*.  Each strategy is annotated with a corresponding *node cost*, and certain pairs of node strategies come with a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
+As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*.  Each strategy is annotated with a corresponding *node cost*, and certain pairs of node strategies come with a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
 <p align="center">
 <img src="images/costs.png" width="450">
@@ -78,7 +78,7 @@ To ensure that the binaries can be executed properly, teams will have an opportu
 
 ## Getting Started
 
-To help you get started, we will release a separate GitHub repository containing several C++ files that define the basic problem and solution classes, along with various utilities.  You are under no obligation to use these source codes.
+To help you get started, we have released a [separate GitHub repository](https://github.com/google/iopddl) containing several C++ files that define the basic problem and solution classes, along with various utilities.  You are under no obligation to use these source codes.
 
 <div align="center">
 
@@ -90,7 +90,7 @@ To help you get started, we will release a separate GitHub repository containing
 
 </div>
 
-Once the repository has been released, you will be able to use the following commands to download the source codes, compile the project, and run the executable:
+You should be able to use the following commands to download the source codes, compile the project, and run the executable:
 
 ```
 $ git clone --recursive https://github.com/google/iopddl.git
@@ -102,7 +102,7 @@ Please don't hesitate reaching out to the Contest Organizers if you encounter an
 
 ## Benchmarks
 
-The contest will involve twenty-five industrial benchmarks; five will be released in advance to contest participants (for testing purposes), and the remaining twenty will be withheld for evaluation:
+The contest will involve twenty-five industrial benchmarks; [five have been released](https://github.com/google/iopddl/tree/main/benchmarks) in advance to contest participants (for testing purposes), and the remaining twenty will be withheld for evaluation:
 
 <div align="center">
 
