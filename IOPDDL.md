@@ -25,7 +25,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | Date       | Event                                                                  |
 | ---------- | ---------------------------------------------------------------------- |
 | 2024-11-25 | Contest Announced                                                      |
-| 2024-12-01 | Contest GitHub Repository & Benchmark Subset Released                  |
+| 2024-12-01 | Contest GitHub Repository & Benchmark Subset Released *(temporarily delayed -- stay tuned!)*                 |
 | 2025-02-15 | Contest Registrations & Preliminary Submissions Due<sup>*</sup>        |
 | 2025-03-01 | Contest Final Submissions Due<sup>*</sup>                              |
 | 2025-03-31 | Contest Special Session during ASPLOS 2025 / EuroSys 2025 Workshops    |
