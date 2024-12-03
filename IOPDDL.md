@@ -70,6 +70,7 @@ $ ./iopddl example.json 10
 The final line of the binary's output should be a comma-delimited list of node strategy indices enclosed in brackets (all intermediate lines will be ignored):
 
 ```
+# Found solution [0, 0, 2, 0, 0] with cost 545  <--- this line ignored
 # Found solution [0, 0, 2, 1, 0] with cost 445  <--- this line ignored
 [0, 0, 2, 1, 0]
 ```
