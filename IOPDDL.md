@@ -187,6 +187,10 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * All cost and memory usage values in the benchmarks can be represented as 64-bit integers, but beware of integer overflow when calculating total cost and/or total memory usage.
 
+ ***How should usage intervals be interpreted?***
+
+ * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper - 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
+
 ## Related Work
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
