@@ -190,7 +190,7 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  ***How should usage intervals be interpreted?***
 
- * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper - 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
+ * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
 
 ## Related Work
 
