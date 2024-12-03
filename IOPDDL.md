@@ -25,7 +25,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | Date       | Event                                                                  |
 | ---------- | ---------------------------------------------------------------------- |
 | 2024-11-25 | Contest Announced                                                      |
-| 2024-12-02 | Contest [GitHub Repository](https://github.com/google/iopddl) including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks) Released                  |
+| 2024-12-02 | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
 | 2025-02-15 | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 | 2025-03-01 | Contest Final Submissions Due<sup>*</sup>                              |
 | 2025-03-30 | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
@@ -109,31 +109,31 @@ The contest will involve twenty-five industrial benchmarks; [five have been rele
 
 | Benchmark Name         | # Nodes | # Edges |     Timeout | Will be released to participants? |
 | ---------------------- | ------: | ------: | ----------: | :-------------------------------: |
-| `asplos-2025-iopddl-A` |     TBD |     TBD | 1 minute(s) |                               Yes |
+| `asplos-2025-iopddl-A` |  34,932 |  54,801 | 1 minute(s) |                               Yes |
 | `asplos-2025-iopddl-B` |     TBD |     TBD | 1 minute(s) |                                   |
 | `asplos-2025-iopddl-C` |     TBD |     TBD | 1 minute(s) |                                   |
 | `asplos-2025-iopddl-D` |     TBD |     TBD | 1 minute(s) |                                   |
 | `asplos-2025-iopddl-E` |     TBD |     TBD | 1 minute(s) |                                   |
 | `asplos-2025-iopddl-F` |     TBD |     TBD | 2 minute(s) |                                   |
-| `asplos-2025-iopddl-G` |     TBD |     TBD | 2 minute(s) |                               Yes |
+| `asplos-2025-iopddl-G` |     816 |   1,023 | 2 minute(s) |                               Yes |
 | `asplos-2025-iopddl-H` |     TBD |     TBD | 2 minute(s) |                                   |
 | `asplos-2025-iopddl-I` |     TBD |     TBD | 2 minute(s) |                                   |
 | `asplos-2025-iopddl-J` |     TBD |     TBD | 2 minute(s) |                                   |
 | `asplos-2025-iopddl-K` |     TBD |     TBD | 3 minute(s) |                                   |
 | `asplos-2025-iopddl-L` |     TBD |     TBD | 3 minute(s) |                                   |
-| `asplos-2025-iopddl-M` |     TBD |     TBD | 3 minute(s) |                               Yes |
+| `asplos-2025-iopddl-M` |  32,894 |  47,067 | 3 minute(s) |                               Yes |
 | `asplos-2025-iopddl-N` |     TBD |     TBD | 3 minute(s) |                                   |
 | `asplos-2025-iopddl-O` |     TBD |     TBD | 3 minute(s) |                                   |
 | `asplos-2025-iopddl-P` |     TBD |     TBD | 4 minute(s) |                                   |
 | `asplos-2025-iopddl-Q` |     TBD |     TBD | 4 minute(s) |                                   |
 | `asplos-2025-iopddl-R` |     TBD |     TBD | 4 minute(s) |                                   |
-| `asplos-2025-iopddl-S` |     TBD |     TBD | 4 minute(s) |                               Yes |
+| `asplos-2025-iopddl-S` |  28,526 |  38,826 | 4 minute(s) |                               Yes |
 | `asplos-2025-iopddl-T` |     TBD |     TBD | 4 minute(s) |                                   |
 | `asplos-2025-iopddl-U` |     TBD |     TBD | 5 minute(s) |                                   |
 | `asplos-2025-iopddl-V` |     TBD |     TBD | 5 minute(s) |                                   |
 | `asplos-2025-iopddl-W` |     TBD |     TBD | 5 minute(s) |                                   |
 | `asplos-2025-iopddl-X` |     TBD |     TBD | 5 minute(s) |                                   |
-| `asplos-2025-iopddl-Y` |     TBD |     TBD | 5 minute(s) |                               Yes |
+| `asplos-2025-iopddl-Y` |  62,185 |  91,020 | 5 minute(s) |                               Yes |
 
 </div>
 
