@@ -24,7 +24,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 | Date       | Event                                                                  |
 | ---------- | ---------------------------------------------------------------------- |
-| ~~2024-11-25~~ | Contest Announced                                                      |
+| ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
 |   2025-02-15   | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 |   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
