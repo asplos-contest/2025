@@ -197,7 +197,7 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
  * Lepikhin et al. [*GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding*](https://openreview.net/forum?id=qrwe7XHTmYb). ICLR 2021.
- * Rajbhandari et al. [*ZeRO: Memory Optimizations Toward Training Trillion Parameter Models*](https://dl.acm.org/doi/10.5555/3433701.3433727). SC 2020.
+ * Rajbhandari et al. [*ZeRO: Memory Optimizations Toward Training Trillion Parameter Models*](https://doi.org/10.1109/SC41405.2020.00024). SC 2020.
  * Shi et al. [*TAP: Efficient Derivation of Tensor Parallel Plans for Large Neural Networks*](https://openreview.net/forum?id=6d5El_LENnf). ASSYST 2023.
  * Zhao et al. [*PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel*](https://doi.org/10.14778/3611540.3611569). PVLDB 2023.
  * Zheng et al. [*Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning*](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin). OSDI 2022.
