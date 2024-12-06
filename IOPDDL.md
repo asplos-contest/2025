@@ -86,9 +86,9 @@ To help you get started, we have released a [separate GitHub repository](https:/
 
 | File        | Description                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------ |
-| `iopddl.h`  | Defines the `Problem` and `Solution` classes, along with methods for file I/O and solution evaluation. |
-| `solver.cc` | A simple random solver (**teams will want to replace this with their own implementation**).            |
-| `main.cc`   | Reads the given problem, calls the solver, and prints the solution to standard output.                 |
+| [`iopddl.h`](https://github.com/google/iopddl/blob/main/iopddl.h)  | Defines the `Problem` and `Solution` classes, along with methods for file I/O and solution evaluation. |
+| [`solver.cc`](https://github.com/google/iopddl/blob/main/solver.cc) | A simple random solver (**teams will want to replace this with their own implementation**).            |
+| [`main.cc`](https://github.com/google/iopddl/blob/main/main.cc)   | Reads the given problem, calls the solver, and prints the solution to standard output.                 |
 
 </div>
 
