@@ -134,7 +134,7 @@ The contest will involve twenty-five industrial benchmarks; [five have been rele
 | `asplos-2025-iopddl-V` |     TBD |     TBD | 5 minute(s) |                                   |
 | `asplos-2025-iopddl-W` |     TBD |     TBD | 5 minute(s) |                                   |
 | `asplos-2025-iopddl-X` |     TBD |     TBD | 5 minute(s) |                                   |
-| `asplos-2025-iopddl-Y` |  62,185 |  91,020 | 5 minute(s) |                               Yes |
+| `asplos-2025-iopddl-Y` |  62,185 |  91,020 | 5 minute(s) |                               Yes *(usage limit updated on 2024-12-09)* |
 
 </div>
 
