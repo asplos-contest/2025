@@ -76,7 +76,7 @@ The final line of the binary's output should be a comma-delimited list of node s
 [0, 0, 2, 1, 0]
 ```
 
-To ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers, who will then test it on their machine.
+If no solution can be found, feel free to produce an empty list `[]`.  Finally, to ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers, who will then test it on their machine.
 
 ## Getting Started
 
