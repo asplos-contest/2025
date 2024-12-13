@@ -175,7 +175,7 @@ Teams who successfully submit an entry will be invited to present an informal ov
 
 ## Contest Eligibility
 
-All are welcome to participate in the contest -- including teams from academia, industry, and elsewhere -- with the exception of the Contest Organizers and employees of the Contest Sponsor.  Individuals are prohibited from participating in multiple teams.  In order to be eligible for prizes, teams must commit to releasing an open-source version of their implementation prior to **ASPLOS 2026** (allowing teams sufficient time to write & submit papers detailing their approach).
+All are welcome to participate in the contest -- including teams from academia, industry, and elsewhere -- with the exception of the Contest Organizers and employees of the Contest Sponsor.  Individuals are prohibited from participating in multiple teams.  In order to be eligible for prizes, contestants must commit to releasing an open-source version of their implementation prior to **ASPLOS 2026** (allowing teams sufficient time to write & submit papers detailing their approach).
 
 ## Frequently Asked Questions
 
