@@ -10,7 +10,11 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | Second Place 🥈 | $10,000 |  |
 |  | Third Place 🥉 | $5,000 |  |
 
-[![][image1]](https://forms.gle/k56AmQ764t3ai3Gq7)
+<p align="center">
+<a href="https://forms.gle/k56AmQ764t3ai3Gq7">
+<img src="images/register.png" width="200">
+</a>
+</p>
 
 # Important Dates 
 
