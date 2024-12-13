@@ -17,7 +17,7 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | Date | Event |  |
 | :---- | :---: | ----- | :---- |
 |  | 2024-10-18 | Contest Announced |  |
-|  | 2024-12-01 | Contest GitHub Repository & Benchmark Subset Released |  |
+|  | 2025-01-18 | Contest GitHub Repository & Benchmark Subset Released |  |
 |  | 2025-02-15 | Contest Registrations & Preliminary Submissions Due\* |  |
 |  | 2025-03-01 | Contest Final Submissions Due\* |  |
 |  | 2025-03-31 | Contest Special Session during ASPLOS 2025 Workshops |  |
