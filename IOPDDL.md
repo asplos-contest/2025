@@ -22,10 +22,11 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 <div align="center">
 
-| Date       | Event                                                                  |
-| ---------- | ---------------------------------------------------------------------- |
+| Date           | Event                                                                  |
+| -------------- | ---------------------------------------------------------------------- |
 | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
+|   2025-02-03   | Application Deadline for [Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
 |   2025-02-15   | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 |   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
 |   2025-03-03   | Early Registration Deadline for ASPLOS 2025 / EuroSys 2025             |
