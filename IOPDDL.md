@@ -194,6 +194,10 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
 
+ ***Are edge endpoints in the graph unique?***
+
+ * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  The total cost between such a pair of nodes would be the sum of all such edge costs.
+
 ## Related Work
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
