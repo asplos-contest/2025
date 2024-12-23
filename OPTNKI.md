@@ -20,12 +20,14 @@ Teams from around the globe are invited to contribute submissions toward produci
 
 |  | Date | Event |  |
 | :---- | :---: | ----- | :---- |
-|  | 2024-10-18 | Contest Announced |  |
+|  | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/) |  |
 |  | 2025-01-18 | Contest GitHub Repository & Benchmark Subset Released |  |
+|  | 2025-02-03 | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/) |  |
 |  | 2025-02-15 | Contest Registrations & Preliminary Submissions Due\* |  |
 |  | 2025-03-01 | Contest Final Submissions Due\* |  |
-|  | 2025-03-31 | Contest Special Session during ASPLOS 2025 Workshops |  |
-|  | 2025-04-02 | Contest Winners Announced at ASPLOS 2025 Banquet |  |
+|  | 2025-03-03 | Early Registration Deadline for ASPLOS 2025 / EuroSys 2025 |  |
+|  | 2025-03-30 | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |  |
+|  | 2025-04-01 | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |  |
 
 \*Submissions are due by 11:59pm at any time on Earth.
 
