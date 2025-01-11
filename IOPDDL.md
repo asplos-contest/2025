@@ -186,17 +186,21 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * The strategies in our benchmarks include combinations of *data parallelism* and *operator parallelism* (i.e., for SPMD partitioning) but exclude *inter-operator parallelism* (i.e., for multi-stage pipelining) that would differentiate which operators of the graph are executed on specific devices.
 
- ***What level of precision will the values in the benchmarks have?***
+***What level of precision will the values in the benchmarks have?***
 
  * All cost and memory usage values in the benchmarks can be represented as 64-bit integers, but beware of integer overflow when calculating total cost and/or total memory usage.
 
- ***How should usage intervals be interpreted?***
+***How should usage intervals be interpreted?***
 
  * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
 
- ***Are all edge endpoints in the graph unique?***
+***Are all edge endpoints in the graph unique?***
 
  * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  The total cost between a pair of nodes would thus be the sum across all such edge costs.
+
+***Can submissions employ third-party libraries?***
+
+ * Third-party libraries should be just fine, as long as they don't require a commercial license.
 
 ## Related Work
 
