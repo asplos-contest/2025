@@ -74,8 +74,11 @@ We define **points** as **Accuracy** (binary) **\* Reduced Latency \* Increased 
 * **Increased Throughput** \= Submission tokens/sec divided by reference implementation tokens/sec  
 * **Normalized NKI FLOPS** \= Submission NKI FLOPS divided by total model FLOPS
 
-
 For example, a submission that is sufficiently accurate, with 10x reduced latency, 2x increased throughput, and 0.85 normalized NKI FLOPS would obtain 1 \* 10 \* 2 \* 0.85 \= 17 points.
+
+## Presentations
+
+Teams who successfully submit an entry will be invited to present an informal overview of their approach (roughly 10 to 15 minutes) at a special session held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
 
 # Contest Eligibility
 
