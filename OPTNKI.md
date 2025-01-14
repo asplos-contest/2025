@@ -10,18 +10,24 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | Second Place 🥈 | $10,000 |  |
 |  | Third Place 🥉 | $5,000 |  |
 
-[![][image1]](https://forms.gle/k56AmQ764t3ai3Gq7)
+<p align="center">
+<a href="https://forms.gle/k56AmQ764t3ai3Gq7">
+<img src="images/register.png" width="200">
+</a>
+</p>
 
 # Important Dates 
 
 |  | Date | Event |  |
 | :---- | :---: | ----- | :---- |
-|  | 2024-10-18 | Contest Announced |  |
+|  | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/) |  |
 |  | 2025-01-18 | Contest GitHub Repository & Benchmark Subset Released |  |
+|  | 2025-02-03 | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/) |  |
 |  | 2025-02-15 | Contest Registrations & Preliminary Submissions Due\* |  |
 |  | 2025-03-01 | Contest Final Submissions Due\* |  |
-|  | 2025-03-31 | Contest Special Session during ASPLOS 2025 Workshops |  |
-|  | 2025-04-02 | Contest Winners Announced at ASPLOS 2025 Banquet |  |
+|  | 2025-03-03 | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/) |  |
+|  | 2025-03-30 | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |  |
+|  | 2025-04-01 | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |  |
 
 \*Submissions are due by 11:59pm at any time on Earth.
 
@@ -68,8 +74,11 @@ We define **points** as **Accuracy** (binary) **\* Reduced Latency \* Increased 
 * **Increased Throughput** \= Submission tokens/sec divided by reference implementation tokens/sec  
 * **Normalized NKI FLOPS** \= Submission NKI FLOPS divided by total model FLOPS
 
-
 For example, a submission that is sufficiently accurate, with 10x reduced latency, 2x increased throughput, and 0.85 normalized NKI FLOPS would obtain 1 \* 10 \* 2 \* 0.85 \= 17 points.
+
+# Presentations
+
+Teams who successfully submit an entry will be invited to present an informal overview of their approach (roughly 10 to 15 minutes) at a special session held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
 
 # Contest Eligibility
 
