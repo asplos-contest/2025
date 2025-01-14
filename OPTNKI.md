@@ -95,11 +95,11 @@ To raise a question, please create an issue in this repository, or feel free to 
 # Contest Organizers
 
 * Emery Berger (Amazon Web Services), [emerydb@amazon.com](mailto:emerydb@amazon.com)
-* Emily Webber (Amazon Web Services)
-* Ziyang Xu (Amazon Web Services)
 * Aninda Manocha (Amazon Web Services)
 * Wei Tang (Amazon Web Services)
-
+* Emily Webber (Amazon Web Services)
+* Ziyang Xu (Amazon Web Services)
+ 
 # Contest Sponsor
 
 ![Cloud Computing Services - Amazon Web Services (AWS)](https://github.com/asplos-contest/2025/blob/main/images/aws-logo.jpg)
