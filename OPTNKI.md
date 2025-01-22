@@ -21,7 +21,7 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | Date | Event |  |
 | :---- | :---: | ----- | :---- |
 |  | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/) |  |
-|  | 2025-01-18 | Contest GitHub Repository & Benchmark Subset Released |  |
+|  | ~~2025-01-18~~ | [Contest GitHub Repository & Benchmark Subset Released](https://github.com/aws-samples/nki-llama)  |  |
 |  | 2025-02-03 | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/) |  |
 |  | 2025-02-15 | Contest Registrations & Preliminary Submissions Due\* |  |
 |  | 2025-03-01 | Contest Final Submissions Due\* |  |
@@ -33,64 +33,24 @@ Teams from around the globe are invited to contribute submissions toward produci
 
 # Problem Description
 
-Amazon Web Services has two family of machine learning chips, called Trainium and Inferentia. AWS Neuron SDK is an SDK with a compiler and profiling tools for programming these devices using high-level libraries like PyTorch. AWS [recently released a new programming interface called Neuron Kernel Interface (NKI)](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-neuron-nki-nxd-training-jax/) that gives programmers down-to-the-metal access to Trainium/Inferentia hardware features, potentially unlocking even greater performance opportunities.
+Amazon Web Services has two family of machine learning chips, called
+Trainium and Inferentia. AWS Neuron SDK is an SDK with a compiler and
+profiling tools for programming these devices using high-level
+libraries like PyTorch. AWS [recently released a new programming
+interface called Neuron Kernel Interface
+(NKI)](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-neuron-nki-nxd-training-jax/)
+that gives programmers down-to-the-metal access to Trainium/Inferentia
+hardware features, potentially unlocking even greater performance
+opportunities.
 
-For this contest, teams will submit code that leverages NKI to implement the Llama3.2 1B model, targeting a single Trainium1 (trn1) chip. 
+For this contest, teams will submit code that leverages NKI to
+implement the Llama3.2 1B model, targeting a single Trainium1 (trn1)
+chip.
 
-# Submission
+# Contest GitHub Repository and Benchmark Subset
 
-Your submission should be a single Python file called \`llama.py\`. This file should contain implementation of NKI kernels and also modification to the original model to invoke these NKI kernels.   
-This file should work as a plug-in replacement for the original \`llama.py\` of the reference PyTorch implementation given below.
-
-# Getting Started
-
-We will provide a package containing the PyTorch model of Llama 3.2 1B. This model **can be compiled with AWS Neuron SDK and run on** a **Trainium instance.** The main file in this package is \`llama.py\` which contains the model implementation in PyTorch.
-
-In the \`llama.py\` file, we will provide an example NKI kernel for the softmax operation (to be confirmed) and a guide on how to replace its invocation in the model. This replacement serves as an example of valid use of an NKI kernel in the model. Your task is to identify other places (operators, fused operators, layers, or even the whole model\!) that can be implemented as NKI kernels and replace them in the original model to achieve better performance.
-
-To learn NKI, follow [the official NKI guide](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/nki/index.html) and various example NKI kernels from the [\`nki-samples\`](https://github.com/aws-neuron/nki-samples) repo. Another tool to help with optimizing NKI kernels is [\`nki-autotune\`](https://github.com/awslabs/nki-autotune).
-
-# Benchmarks
-
-Submissions will be tested using 25 benchmarks (prompts) with varying context lengths (TBD, but likely 1K \-\> 128K) and batch sizes (TBD, but likely 1-\>4); five will be released in advance to contest participants (for testing purposes), and the remaining twenty will be withheld for evaluation.
-
-All benchmarks will become publicly available after the contest is complete.
-
-# Evaluation and Scoring
-
-The contest organizers will execute each team's submission across the twenty withheld benchmarks on a dedicated Trainium instance. The submissions will be evaluated on:
-
-1) Accuracy of generated output vs. our reference implementation. Accuracy evaluation will be a binary assessor: Any benchmark that fails an accuracy threshold will result in a score of 0\.   
-2) Latency (Time to first token (TTFT))  
-3) Throughput measured as output tokens / second  
-4) Amount of model written in NKI (measured as NKI FLOPS / total model FLOPS) (will be applied as a scaling factor for (b) and (c).
-
-Rankings will be established by calculating the total normalized number of points per team, where points are normalized against the best submitted solution.
-
-We define **points** as **Accuracy** (binary) **\* Reduced Latency \* Increased Throughput \* Normalized NKI FLOPS**, where:
-
-* **Accuracy** \= 1 if accuracy matches or exceeds a predetermined threshold, 0 otherwise  
-* **Reduced Latency** \= Reference implementation TTFT divided by submission TTFT  
-* **Increased Throughput** \= Submission tokens/sec divided by reference implementation tokens/sec  
-* **Normalized NKI FLOPS** \= Submission NKI FLOPS divided by total model FLOPS
-
-For example, a submission that is sufficiently accurate, with 10x reduced latency, 2x increased throughput, and 0.85 normalized NKI FLOPS would obtain 1 \* 10 \* 2 \* 0.85 \= 17 points.
-
-# Presentations
-
-Teams who successfully submit an entry will be invited to present an informal overview of their approach (roughly 10 to 15 minutes) at a special session held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
-
-# Contest Eligibility
-
-All are welcome to participate in the contest (including teams from academia, industry, and elsewhere) with the exception of the Contest Organizers and employees of the Contest Sponsor. Individuals are prohibited from participating in multiple teams. In order to be eligible for prizes, teams must commit to releasing an open-source version of their implementation prior to ASPLOS 2026\.
-
-# Frequently Asked Questions
-
-To raise a question, please create an issue in this repository, or feel free to reach out to the contest organizers directly.
-
-# Related Work
-
-* TBD
+Please consult the following GitHub repository for full contest details:
+[https://github.com/aws-samples/nki-llama](https://github.com/aws-samples/nki-llama).
 
 # Contest Organizers
 
