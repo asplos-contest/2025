@@ -63,7 +63,7 @@ Broadly speaking, the structural characteristics of a benchmark's graph topology
 
 ## Submission
 
-Teams must submit a binary executable named `iopddl` that takes two arguments: a path to the input problem and a timeout duration in seconds:
+Starting in mid-February, registered teams will be asked to submit a binary executable named `iopddl` that takes two arguments: a path to the input problem and a timeout duration in seconds:
 
 ```
 $ ./iopddl example.json 10
@@ -77,7 +77,7 @@ The final line of the binary's output should be a comma-delimited list of node s
 [0, 0, 2, 1, 0]
 ```
 
-If no solution can be found, feel free to produce an empty list `[]`.  Finally, to ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers, who will then test it on their machine.
+If no solution can be found, feel free to produce an empty list `[]`.  Finally, to ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers (starting in early February) who will then test it on their machine.
 
 ## Getting Started
 
