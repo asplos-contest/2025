@@ -202,6 +202,10 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * Third-party libraries should be just fine, as long as they don't require a commercial license.
 
+***Will there be a real-time leaderboard to track submission scores for all teams?***
+
+ * For this particular contest, such a feature won't be available (but we agree it would be nice!).
+
 ## Related Work
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
