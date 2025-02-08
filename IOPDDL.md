@@ -206,6 +206,10 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * For this particular contest, such a feature won't be available (but we agree it would be nice!).
 
+***Does file I/O count toward the timeout limit?***
+
+ * A few of our benchmarks are quite large, and might take a while to load.  As a result, we'll be generous in enforcing timeout limits ... i.e., given a 300-second limit, your program will be allowed to run for 310 seconds (assuming 10 seconds of file I/O are needed for that benchmark).
+
 ## Related Work
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
