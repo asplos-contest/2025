@@ -26,7 +26,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | -------------- | ---------------------------------------------------------------------- |
 | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
-|   2025-02-03   | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
+| ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
 |   2025-02-15   | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 |   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
 |   2025-03-03   | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
@@ -63,7 +63,7 @@ Broadly speaking, the structural characteristics of a benchmark's graph topology
 
 ## Submission
 
-Teams must submit a binary executable named `iopddl` that takes two arguments: a path to the input problem and a timeout duration in seconds:
+Starting in mid-February, registered teams will be asked to submit a binary executable named `iopddl` that takes two arguments: a path to the input problem and a timeout duration in seconds:
 
 ```
 $ ./iopddl example.json 10
@@ -77,7 +77,7 @@ The final line of the binary's output should be a comma-delimited list of node s
 [0, 0, 2, 1, 0]
 ```
 
-If no solution can be found, feel free to produce an empty list `[]`.  Finally, to ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers, who will then test it on their machine.
+If no solution can be found, feel free to produce an empty list `[]`.  Finally, to ensure that the binaries can be executed properly, teams will have an opportunity to submit a preliminary version to the Contest Organizers (starting in early February) who will then test it on their machine.
 
 ## Getting Started
 
@@ -201,6 +201,14 @@ To raise a question, please create an issue in this repository, or feel free to 
 ***Can submissions employ third-party libraries?***
 
  * Third-party libraries should be just fine, as long as they don't require a commercial license.
+
+***Will there be a real-time leaderboard to track submission scores for all teams?***
+
+ * For this particular contest, such a feature won't be available (but we agree it would be nice!).
+
+***Does file I/O count toward the timeout limit?***
+
+ * A few of our benchmarks are quite large, and might take a while to load.  As a result, we'll be generous in enforcing timeout limits ... i.e., given a 300-second limit, your program will be allowed to run for 310 seconds (assuming 10 seconds of file I/O are needed for that benchmark).
 
 ## Related Work
 
