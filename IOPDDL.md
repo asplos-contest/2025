@@ -9,6 +9,8 @@ Teams from around the globe are invited to contribute submissions toward solving
 |  First Place 🥇 | $25,000 |
 | Second Place 🥈 | $10,000 |
 |  Third Place 🥉 |  $5,000 |
+| Fourth Place 🏅 |  $2,000 |
+|  Fifth Place 🏅 |  $1,000 |
 
 </div>
 
