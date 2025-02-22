@@ -19,6 +19,8 @@ If you have questions, please reach out to the contest organizers at [asplos.con
 
 ## Special Session Schedule for Sunday, March 30th, 2025
 
+All presentations will take place in **Penn room I**.
+
 <div align="center">
 
 |           Time | Event
