@@ -42,11 +42,11 @@ All presentations will take place in **Penn room I**.
 | 11:40 -- 11:50 |
 | 11:50 -- 12:00 |
 | 12:00 -- 12:10 |
-| 12:10 -- 12:30 | Closing Remarks for Topic #1
+| 12:10 -- 12:20 | 
+| 12:20 -- 12:30 | 
 | 12:30 -- 14:00 | ***--- Lunch ---***
-| 14:00 -- 14:20 | Opening Remarks for Topic #2
-| 14:20 -- 14:30 |
-| 14:30 -- 14:40 |
+| 14:00 -- 14:20 | Closing Remarks for Topic #1
+| 14:20 -- 14:40 | Opening Remarks for Topic #2
 | 14:40 -- 14:50 |
 | 14:50 -- 15:00 |
 | 15:00 -- 15:10 |
