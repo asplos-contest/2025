@@ -26,7 +26,7 @@ All presentations will take place in **Penn room I**.
 |           Time | Event / Teams*
 | ---------------|--------------------------------------
 | 08:30 -- 09:00 | ***--- Coffee and Registration ---***
-| 09:10 -- 09:20 | Opening Remarks for Topic #1
+| 09:00 -- 09:20 | Opening Remarks for Topic #1
 | 09:20 -- 09:30 |
 | 09:30 -- 09:40 |
 | 09:40 -- 09:50 |
