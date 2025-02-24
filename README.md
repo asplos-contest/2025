@@ -19,11 +19,11 @@ If you have questions, please reach out to the contest organizers at [asplos.con
 
 ## Special Session Schedule for Sunday, March 30th, 2025
 
-All presentations will take place in **Penn room I**.
+All presentations will take place in **Penn room I**.  
 
 <div align="center">
 
-|           Time | Event
+|           Time | Event / Teams*
 | ---------------|--------------------------------------
 | 08:30 -- 09:00 | ***--- Coffee and Registration ---***
 | 09:10 -- 09:20 | Opening Remarks for Topic #1
@@ -45,16 +45,15 @@ All presentations will take place in **Penn room I**.
 | 12:10 -- 12:20 | 
 | 12:20 -- 12:30 | 
 | 12:30 -- 14:00 | ***--- Lunch ---***
-| 14:00 -- 14:20 | Closing Remarks for Topic #1
-| 14:20 -- 14:40 | Opening Remarks for Topic #2
+| 14:00 -- 14:10 | 
+| 14:10 -- 14:20 | 
+| 14:20 -- 14:40 | 
 | 14:40 -- 14:50 |
 | 14:50 -- 15:00 |
 | 15:00 -- 15:10 |
-| 15:10 -- 15:20 |
-| 15:20 -- 15:30 |
+| 15:10 -- 15:30 | Closing Remarks for Topic #1
 | 15:30 -- 16:00 | ***--- Coffee Break ---***
-| 16:00 -- 16:10 | 
-| 16:10 -- 16:20 |
+| 16:00 -- 16:20 | Opening Remarks for Topic #2
 | 16:20 -- 16:30 |
 | 16:30 -- 16:40 |
 | 16:40 -- 16:50 |
@@ -63,3 +62,5 @@ All presentations will take place in **Penn room I**.
 | 17:10 -- 17:30 | Closing Remarks for Topic #2
 
 </div>
+
+*This schedule sequence was determined by sorting teams in ascending order by primary contact email address.
