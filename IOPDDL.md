@@ -201,7 +201,7 @@ To raise a question, please create an issue in this repository, or feel free to 
 
 ***Are all edge endpoints in the graph unique?***
 
- * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  The total cost between a pair of nodes would thus be the sum across all such edge costs.
+ * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  For example, you'll find that in *Benchmark A*, there are two separate edges (#60 and #21438) that connect nodes #5 and #617.   The total cost between a pair of nodes would thus be the sum across all such edge costs.
 
 ***Can submissions employ third-party libraries?***
 
