@@ -52,13 +52,13 @@ With machine learning models becoming larger and larger, multi-device execution 
 
 Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
 
-As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*.  Each strategy is annotated with a corresponding *node cost*, and certain pairs of node strategies come with a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
+As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*, and each strategy is annotated with a corresponding *node cost*.  In addition, certain pairs of nodes are connected by edges, and each pairwise strategy combination incurs a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
 <p align="center">
 <img src="images/costs.png" width="450">
 </p>
 
-Nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
+Finally, nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
 
 <p align="center">
 <img src="images/usages.png" width="450">
@@ -197,7 +197,7 @@ To raise a question, please create an issue in this repository, or feel free to 
 
 ***How should usage intervals be interpreted?***
 
- * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
+ * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory (but will still contribute node costs and possibly edge costs).
 
 ***Are all edge endpoints in the graph unique?***
 
