@@ -26,7 +26,8 @@ All presentations will take place in **Penn room I**.
 |           Time | Event / Teams*
 | ---------------|--------------------------------------
 | 08:30 -- 09:00 | ***--- Coffee and Registration ---***
-| 09:00 -- 09:20 | Opening Remarks for Topic #1
+| 09:00 -- 09:10 | Opening Remarks for Topic #1
+| 09:10 -- 09:20 |
 | 09:20 -- 09:30 |
 | 09:30 -- 09:40 |
 | 09:40 -- 09:50 |
@@ -35,7 +36,7 @@ All presentations will take place in **Penn room I**.
 | 10:10 -- 10:20 |
 | 10:20 -- 10:30 |
 | 10:30 -- 11:00 | ***--- Coffee Break ---***
-| 11:00 -- 11:10 | 
+| 11:00 -- 11:10 | Opening Remarks for Topic #2
 | 11:10 -- 11:20 |
 | 11:20 -- 11:30 |
 | 11:30 -- 11:40 |
@@ -47,13 +48,15 @@ All presentations will take place in **Penn room I**.
 | 12:30 -- 14:00 | ***--- Lunch ---***
 | 14:00 -- 14:10 | 
 | 14:10 -- 14:20 | 
+| 14:20 -- 14:30 | 
 | 14:20 -- 14:40 | 
 | 14:40 -- 14:50 |
 | 14:50 -- 15:00 |
 | 15:00 -- 15:10 |
-| 15:10 -- 15:30 | Closing Remarks for Topic #1
+| 15:10 -- 15:20 |
+| 15:20 -- 15:30 | Closing Remarks for Topic #2
 | 15:30 -- 16:00 | ***--- Coffee Break ---***
-| 16:00 -- 16:10 | Opening Remarks for Topic #2
+| 16:00 -- 16:10 | 
 | 16:10 -- 16:20 |
 | 16:20 -- 16:30 |
 | 16:30 -- 16:40 |
@@ -61,7 +64,7 @@ All presentations will take place in **Penn room I**.
 | 16:50 -- 17:00 |
 | 17:00 -- 17:10 |
 | 17:10 -- 17:20 |
-| 17:20 -- 17:30 | Closing Remarks for Topic #2
+| 17:20 -- 17:30 | Closing Remarks for Topic #1
 
 </div>
 
