@@ -9,14 +9,18 @@ Teams from around the globe are invited to contribute submissions toward solving
 |  First Place 🥇 | $25,000 |
 | Second Place 🥈 | $10,000 |
 |  Third Place 🥉 |  $5,000 |
+| Fourth Place ⭐ |  $2,000 |
+|  Fifth Place ⭐ |  $1,000 |
 
 </div>
 
+<!--
 <p align="center">
 <a href="https://forms.gle/oHf2K6vqPjBwaQWHA">
 <img src="images/register.png" width="200">
 </a>
 </p>
+-->
 
 ## Important Dates
 
@@ -27,9 +31,10 @@ Teams from around the globe are invited to contribute submissions toward solving
 | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
 | ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
-|   2025-02-15   | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
+| ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 |   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
 |   2025-03-03   | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
+|   2025-03-15   | Special Session Schedule Finalized & Full Benchmark Set Released                                            |
 |   2025-03-30   | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
 |   2025-04-01   | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
 
@@ -47,13 +52,13 @@ With machine learning models becoming larger and larger, multi-device execution 
 
 Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
 
-As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*.  Each strategy is annotated with a corresponding *node cost*, and certain pairs of node strategies come with a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
+As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*, and each strategy is annotated with a corresponding *node cost*.  In addition, certain pairs of nodes are connected by edges, and each pairwise strategy combination incurs a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
 <p align="center">
 <img src="images/costs.png" width="450">
 </p>
 
-Nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
+Finally, nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
 
 <p align="center">
 <img src="images/usages.png" width="450">
@@ -192,11 +197,11 @@ To raise a question, please create an issue in this repository, or feel free to 
 
 ***How should usage intervals be interpreted?***
 
- * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory.
+ * A node with usage interval `[lower, upper]` should be considered *half-open* with an *exclusive* upper bound. In other words, it will consume memory at time points {*lower, lower + 1, ..., upper − 1*}.  Hence, any nodes with an empty interval `[0, 0]` essentially consume no memory (but will still contribute node costs and possibly edge costs).
 
 ***Are all edge endpoints in the graph unique?***
 
- * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  The total cost between a pair of nodes would thus be the sum across all such edge costs.
+ * Not necessarily; for a given pair of nodes `[pred, succ]`, there may be zero, one, or multiple edges that connect them.  For example, you'll find that in *Benchmark A*, there are two separate edges (#60 and #21438) that connect nodes #5 and #617.   The total cost between a pair of nodes would thus be the sum across all such edge costs.
 
 ***Can submissions employ third-party libraries?***
 
