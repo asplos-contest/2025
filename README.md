@@ -53,13 +53,15 @@ All presentations will take place in **Penn room I**.
 | 15:00 -- 15:10 |
 | 15:10 -- 15:30 | Closing Remarks for Topic #1
 | 15:30 -- 16:00 | ***--- Coffee Break ---***
-| 16:00 -- 16:20 | Opening Remarks for Topic #2
+| 16:00 -- 16:10 | Opening Remarks for Topic #2
+| 16:10 -- 16:20 |
 | 16:20 -- 16:30 |
 | 16:30 -- 16:40 |
 | 16:40 -- 16:50 |
 | 16:50 -- 17:00 |
 | 17:00 -- 17:10 |
-| 17:10 -- 17:30 | Closing Remarks for Topic #2
+| 17:10 -- 17:20 |
+| 17:20 -- 17:30 | Closing Remarks for Topic #2
 
 </div>
 
