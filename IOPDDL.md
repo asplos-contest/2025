@@ -32,7 +32,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
 | ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
 | ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
-|   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
+| ~~2025-03-01~~ | Contest Final Submissions Due<sup>*</sup>                              |
 |   2025-03-03   | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
 |   2025-03-15   | Special Session Schedule Finalized & Full Benchmark Set Released                                            |
 |   2025-03-30   | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
