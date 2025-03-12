@@ -26,7 +26,9 @@ All presentations will take place in **Penn room I**.
 |           Time |  Topic | Event / Teams*
 | ---------------|--------|--------------------------------------
 | 08:30 -- 09:00 |        | **--- Coffee and Registration ---**
-| 09:00 -- 09:20 | IOPDDL | *Opening Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
+| 09:00 -- 09:10 |        | *Opening Remarks*
+| 09:10 -- 09:20 | IOPDDL | *Opening Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
+| 09:10 -- 09:20 | IOPDDL | 
 | 09:20 -- 09:30 | IOPDDL | 
 | 09:30 -- 09:40 | IOPDDL | 
 | 09:40 -- 09:50 | IOPDDL | 
@@ -35,23 +37,25 @@ All presentations will take place in **Penn room I**.
 | 10:10 -- 10:20 | IOPDDL | 
 | 10:20 -- 10:30 | IOPDDL | 
 | 10:30 -- 11:00 |        | **--- Coffee Break ---**
-| 11:00 -- 11:20 | OPTNKI | *Opening Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI)<br>Implementation of Llama 3.2 1B (inference)*
+| 11:00 -- 11:10 | OPTNKI | *Opening Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI)<br>Implementation of Llama 3.2 1B (inference)*
+| 11:10 -- 11:20 | OPTNKI | 
 | 11:20 -- 11:30 | OPTNKI | 
-| 11:30 -- 11:40 | OPTNKI | 
-| 11:40 -- 11:50 | IOPDDL | 
+| 11:30 -- 11:40 | IOPDDL | 
+| 11:40 -- 11:50 | OPTNKI | 
 | 11:50 -- 12:00 | OPTNKI | 
-| 12:00 -- 12:10 | OPTNKI | 
-| 12:10 -- 12:20 | IOPDDL | 
+| 12:00 -- 12:10 | IOPDDL | 
+| 12:10 -- 12:20 | OPTNKI | 
 | 12:20 -- 12:30 | IOPDDL | 
 | 12:30 -- 14:00 |        | **--- Lunch ---**
 | 14:00 -- 14:10 | IOPDDL | 
-| 14:10 -- 14:20 | IOPDDL | 
-| 14:20 -- 14:30 | OPTNKI | 
+| 14:10 -- 14:20 | OPTNKI | 
+| 14:20 -- 14:30 | IOPDDL | 
 | 14:20 -- 14:40 | OPTNKI | 
-| 14:40 -- 14:50 | IOPDDL | 
-| 14:50 -- 15:00 | OPTNKI | 
+| 14:40 -- 14:50 | OPTNKI | 
+| 14:50 -- 15:00 | IOPDDL | 
 | 15:00 -- 15:10 | OPTNKI | 
-| 15:10 -- 15:30 | OPTNKI | *Closing Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI)<br>Implementation of Llama 3.2 1B (inference)*
+| 15:10 -- 15:20 | OPTNKI | 
+| 15:20 -- 15:30 | OPTNKI | *Closing Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI)<br>Implementation of Llama 3.2 1B (inference)*
 | 15:30 -- 16:00 |        | **--- Coffee Break ---**
 | 16:00 -- 16:10 | IOPDDL | 
 | 16:10 -- 16:20 | IOPDDL | 
@@ -60,7 +64,8 @@ All presentations will take place in **Penn room I**.
 | 16:40 -- 16:50 | IOPDDL | 
 | 16:50 -- 17:00 | IOPDDL | 
 | 17:00 -- 17:10 | IOPDDL | 
-| 17:10 -- 17:30 | IOPDDL | *Closing Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
+| 17:10 -- 17:20 | IOPDDL | *Closing Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
+| 17:20 -- 17:30 |        | *Closing Remarks*
 
 </div>
 
