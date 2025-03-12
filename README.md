@@ -57,7 +57,7 @@ All presentations will take place in **Penn room I**.
 | 15:20 -- 15:30 | OPTNKI | *Closing Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI) Implementation of Llama 3.2 1B (inference)*
 | 15:30 -- 16:00 |        | **--- Coffee Break ---**
 | 16:00 -- 16:10 | IOPDDL | Nhat Dang (*North Carolina State University*)
-| 16:10 -- 16:20 | IOPDDL | Guangyu Hu + Junwei Cui + Weilin Cai + Jiayi Huang (*Hong Kong University of Science and Technology*)
+| 16:10 -- 16:20 | IOPDDL | Le Qin + Guangyu Hu + Junwei Cui + Weilin Cai + Jiayi Huang (*Hong Kong University of Science and Technology*)
 | 16:20 -- 16:30 | IOPDDL | Aleksandr Morozov
 | 16:30 -- 16:40 | IOPDDL | Shubhankar Gambhir
 | 16:40 -- 16:50 | IOPDDL | Stephan Spengler + Samuel Grahn (*Uppsala University*)
