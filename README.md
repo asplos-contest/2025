@@ -26,7 +26,7 @@ All presentations will take place in **Penn room I**.
 |           Time |  Topic | Event / Team*
 | ---------------|--------|--------------------------------------
 | 08:30 -- 09:00 |        | **--- Coffee and Registration ---**
-| 09:00 -- 09:20 |        | *Opening Remarks*
+| 09:00 -- 09:10 |        | *Opening Remarks*
 | 09:10 -- 09:20 | IOPDDL | *Opening Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
 | 09:20 -- 09:30 | IOPDDL | Ava Ye
 | 09:30 -- 09:40 | IOPDDL | Amirhossein Basareh + Kazem Taram + Berk Aydogmus + Sadegh Majidi (*Purdue University*)
@@ -62,7 +62,7 @@ All presentations will take place in **Penn room I**.
 | 16:30 -- 16:40 | IOPDDL | Shubhankar Gambhir
 | 16:40 -- 16:50 | IOPDDL | Stephan Spengler + Samuel Grahn (*Uppsala University*)
 | 16:50 -- 17:00 | IOPDDL | Christoph Staudt + Mark Blacher (*Friedrich Schiller University Jena*)
-| 16:50 -- 17:00 | IOPDDL | Yaohui Cai + Yaohui Cai + Hongzheng Chen + Vesal Bakhtazad + Lisa Li + Kaixin Yang + Huajie Zhong (*Cornell University*)
+| 17:00 -- 17:10 | IOPDDL | Yaohui Cai + Yaohui Cai + Hongzheng Chen + Vesal Bakhtazad + Lisa Li + Kaixin Yang + Huajie Zhong (*Cornell University*)
 | 17:10 -- 17:20 | IOPDDL | *Closing Remarks for Topic #1:<br>Intra-Operator Parallelism for Distributed Deep Learning*
 | 17:20 -- 17:30 |        | *Closing Remarks*
 
