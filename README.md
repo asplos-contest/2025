@@ -51,7 +51,7 @@ All presentations will take place in **Penn room I**.
 | 14:20 -- 14:30 | IOPDDL | Zhizhou Zhang + Yufan Xu
 | 14:20 -- 14:40 | OPTNKI | 
 | 14:40 -- 14:50 | OPTNKI | 
-| 14:50 -- 15:00 | IOPDDL | Pragnya Sudershan Nalla + Emad Haque + Yaotian Liu + Vinayak Honkote + Sachin S.Sapatnekar + Jeff Zhang + Chaitali Chakrabarti + Yu Cao (*University of Minnesota Twin Cities* / *Arizona State University* / *Intel Labs USA*)
+| 14:50 -- 15:00 | IOPDDL | Pragnya Sudershan Nalla + Emad Haque + Yaotian Liu + Vinayak Honkote + Sachin S. Sapatnekar + Jeff Zhang + Chaitali Chakrabarti + Yu Cao (*University of Minnesota Twin Cities* / *Arizona State University* / *Intel Labs USA*)
 | 15:00 -- 15:10 | OPTNKI | 
 | 15:10 -- 15:20 | OPTNKI | 
 | 15:20 -- 15:30 | OPTNKI | *Closing Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI) Implementation of Llama 3.2 1B (inference)*
