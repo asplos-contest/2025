@@ -6,7 +6,7 @@ The [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) and [EuroSys 20
 a challenging, multi-month competition focused on advancing the state-of-the-art in multidisciplinary computer systems research.
 The high-level goals of this track are threefold:
 
- * **Bridge academia and industry** by providing a platform for students and faculty to tackle challenging real-world problems.
+ * **Bridge academia and industry** by providing a platform for students and faculty to tackle difficult real-world problems.
  * **Promote practical solutions** by soliciting submissions that are efficient, effective, and reproducible.
  * **Identify and reward talent** by affording recognition and prizes to top performers.
 
