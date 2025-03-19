@@ -46,7 +46,7 @@ All presentations will take place in **Penn room I**.
 | 12:10 -- 12:20 | OPTNKI | 
 | 12:20 -- 12:30 | IOPDDL | Peng Lin + Mengchuan Zou + Shaowei Cai (*Institute of Software, Chinese Academy of Sciences*)
 | 12:30 -- 14:00 |        | **--- Lunch ---**
-| 14:00 -- 14:10 | IOPDDL | Ketai Zhao + Zhibin Wang + Yuhang Zhou (*Nanjing University*)
+| 14:00 -- 14:10 | IOPDDL | Ketai Zhao + Zhibin Wang + Yuhang Zhou + Chen Tian (*Nanjing University*)
 | 14:10 -- 14:20 | OPTNKI | 
 | 14:20 -- 14:30 | IOPDDL | Zhizhou Zhang + Yufan Xu
 | 14:20 -- 14:40 | OPTNKI | 
