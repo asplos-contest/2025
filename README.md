@@ -32,7 +32,7 @@ All presentations will take place in **Penn room I**.
 | 09:30 -- 09:40 | IOPDDL | Amirhossein Basareh + Kazem Taram + Berk Aydogmus + Sadegh Majidi (*Purdue University*)
 | 09:40 -- 09:50 | IOPDDL | Haodi Jiang + Yitian Yang + Ruwen Fan + Shiwei Gao + Shaoxun Zeng + Junrong Huang + Huajun Bai + Hao Guo + Youyou Lu (*Tsinghua University*)
 | 09:50 -- 10:00 | IOPDDL | Christos Lamprakos (*National Technical University of Athens, Greece*)
-| 10:00 -- 10:10 | IOPDDL | Diman Zad Tootaghaj + Ayush Goel (*Hewlett Packard Labs*)
+| 10:00 -- 10:10 | IOPDDL | Diman Zad Tootaghaj + Khaled Diab + Hardik Soni + Ayush Goel (*Hewlett Packard Labs*)
 | 10:10 -- 10:20 | IOPDDL | Sungwoo Yun + Hoyun Youm + Chan Lee + Kunmo Jeong + Dongkwan Kim + Seonyoung Cheon + Yongwoo Lee (*Yonsei University*)
 | 10:20 -- 10:30 | IOPDDL | Jack Spalding-Jamieson
 | 10:30 -- 11:00 |        | **--- Coffee Break ---**
