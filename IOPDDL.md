@@ -4,14 +4,14 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 <div align="center">
 
-| Rank            |   Prize |
-| --------------: | ------: |
-|  First Place 🥇 | $25,000 |
-| Second Place 🥈 | $10,000 |
-|  Third Place 🥉 |  $5,000 |
-|    Runner-Up ⭐ |  $2,000 |
-|    Runner-Up ⭐ |  $2,000 |
-|    Runner-Up ⭐ |  $2,000 |
+| Rank            |   Prize | Team                              |
+| --------------: | ------: | --------------------------------- |
+|  First Place 🥇 | $25,000 | *(to be announced on 2025-04-01)* |
+| Second Place 🥈 | $10,000 | *(to be announced on 2025-04-01)* |
+|  Third Place 🥉 |  $5,000 | *(to be announced on 2025-04-01)* |
+|    Runner-Up ⭐ |  $2,000 | *(to be announced on 2025-04-01)* |
+|    Runner-Up ⭐ |  $2,000 | *(to be announced on 2025-04-01)* |
+|    Runner-Up ⭐ |  $2,000 | *(to be announced on 2025-04-01)* |
 
 </div>
 
