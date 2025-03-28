@@ -37,23 +37,21 @@ All presentations will take place in **Penn room I**.
 | 10:20 -- 10:30 | IOPDDL | Jack Spalding-Jamieson
 | 10:30 -- 11:00 |        | **--- Coffee Break ---**
 | 11:00 -- 11:10 | OPTNKI | *Opening Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI) Implementation of Llama 3.2 1B (inference)*
-| 11:10 -- 11:20 | OPTNKI | 
-| 11:20 -- 11:30 | OPTNKI | 
+| 11:10 -- 11:20 | OPTNKI | Shaoxun Zeng + Haodi Jiang + Huajun Bai + Ruwen Fan + Shiwei Gao + Yitian Yang + Hao Guo + Youyou Lu (*Tsinghua University*)
+| 11:20 -- 11:30 | OPTNKI | Dongkwan Kim + Chan Lee + Seonyoung Cheon + Kunmo Jeong + Hoyun Youm + Sungwoo Yun + Yongwoo Lee (*Yonsei University*)
 | 11:30 -- 11:40 | IOPDDL | Kenneth Ulrich + Johan Roos
-| 11:40 -- 11:50 | OPTNKI | 
-| 11:50 -- 12:00 | OPTNKI | 
-| 12:00 -- 12:10 | IOPDDL | Koki Aoyama (*Osaka University*)
-| 12:10 -- 12:20 | OPTNKI | 
-| 12:20 -- 12:30 | IOPDDL | Peng Lin + Mengchuan Zou + Shaowei Cai (*Institute of Software, Chinese Academy of Sciences*)
+| 11:40 -- 11:50 | OPTNKI | Dong Li + Dinghong Song + Jierui Xu (*University of California Merced / University of Wisconsin Madison*)
+| 11:50 -- 12:00 | IOPDDL | Koki Aoyama (*Osaka University*)
+| 12:00 -- 12:10 | OPTNKI | Haojie Duanmu + Jieran Zhang (*Shanghai Jiao Tong University / Peking University*)
+| 12:10 -- 12:20 | IOPDDL | Peng Lin + Mengchuan Zou + Shaowei Cai (*Institute of Software, Chinese Academy of Sciences*)
 | 12:30 -- 14:00 |        | **--- Lunch ---**
-| 14:00 -- 14:10 | IOPDDL | Ketai Zhao + Zhibin Wang + Yuhang Zhou + Chen Tian (*Nanjing University*)
-| 14:10 -- 14:20 | OPTNKI | 
-| 14:20 -- 14:30 | IOPDDL | Zhizhou Zhang + Yufan Xu
-| 14:20 -- 14:40 | OPTNKI | 
-| 14:40 -- 14:50 | OPTNKI | 
+| 14:10 -- 14:20 | IOPDDL | Ketai Zhao + Zhibin Wang + Yuhang Zhou + Chen Tian (*Nanjing University*)
+| 14:20 -- 14:30 | OPTNKI | Fengze Yu (*New York University*)
+| 14:20 -- 14:40 | IOPDDL | Zhizhou Zhang + Yufan Xu
+| 14:40 -- 14:50 | OPTNKI | Sachin Gupta + Uday Kanwar + Tae Yeon Ha + James Steadman + Shaun Plassery (*McMaster University*)
 | 14:50 -- 15:00 | IOPDDL | Pragnya Sudershan Nalla + Emad Haque + Yaotian Liu + Vinayak Honkote + Sachin S. Sapatnekar + Jeff Zhang + Chaitali Chakrabarti + Yu Cao (*University of Minnesota Twin Cities* / *Arizona State University* / *Intel Labs USA*)
-| 15:00 -- 15:10 | OPTNKI | 
-| 15:10 -- 15:20 | OPTNKI | 
+| 15:00 -- 15:10 | OPTNKI | Tongzhou Gu + Jihao Xin (*King Abdullah University of Science and Technology*)
+| 15:10 -- 15:20 | OPTNKI | Snehal Bhagat + Dengyu Tu (*Cornell University*)
 | 15:20 -- 15:30 | OPTNKI | *Closing Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI) Implementation of Llama 3.2 1B (inference)*
 | 15:30 -- 16:00 |        | **--- Coffee Break ---**
 | 16:00 -- 16:10 | IOPDDL | Nhat Dang (*North Carolina State University*)
