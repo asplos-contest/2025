@@ -35,8 +35,8 @@ Teams from around the globe are invited to contribute submissions toward solving
 | ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
 | ~~2025-03-01~~ | Contest Final Submissions Due<sup>*</sup>                              |
 | ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
-|   2025-03-15   | Special Session Schedule Finalized                                     |
-|   2025-03-30   | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
+| ~~2025-03-15~~ | Special Session Schedule Finalized                                     |
+| ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
 |   2025-04-01   | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
 
 </div>
