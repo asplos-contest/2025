@@ -43,6 +43,12 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 <sup>*</sup>Submissions are due by 11:59pm at any time on Earth.
 
+## Distribution of Final Scores
+
+<p align="center">
+<img src="images/iopddl_final_scores.png" width="450">
+</p>
+
 ## Problem Description
 
 With machine learning models becoming larger and larger, multi-device execution across several slices or pods of hardware accelerators is imperative to meet latency and throughput requirements across training and serving workloads. When executing an ML computation in a distributed manner, a key determinant of performance is the way that computation is sharded across the multiple devices. An example of a 3D tensor sharded onto a 2D device mesh is shown below:
