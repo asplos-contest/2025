@@ -47,7 +47,7 @@ All presentations will take place in **Penn room I**.
 | 12:30 -- 14:00 |        | **--- Lunch ---**
 | 14:10 -- 14:20 | IOPDDL | Ketai Zhao + Zhibin Wang + Yuhang Zhou + Chen Tian (*Nanjing University*)
 | 14:20 -- 14:30 | OPTNKI | Fengze Yu (*New York University*)
-| 14:20 -- 14:40 | IOPDDL | Zhizhou Zhang + Yufan Xu
+| 14:30 -- 14:40 | IOPDDL | Zhizhou Zhang + Yufan Xu
 | 14:40 -- 14:50 | OPTNKI | Sachin Gupta + Uday Kanwar + Tae Yeon Ha + James Steadman + Shaun Plassery (*McMaster University*)
 | 14:50 -- 15:00 | IOPDDL | Pragnya Sudershan Nalla + Emad Haque + Yaotian Liu + Vinayak Honkote + Sachin S. Sapatnekar + Jeff Zhang + Chaitali Chakrabarti + Yu Cao (*University of Minnesota Twin Cities* / *Arizona State University* / *Intel Labs USA*)
 | 15:00 -- 15:10 | OPTNKI | Tongzhou Gu + Jihao Xin (*King Abdullah University of Science and Technology*)
