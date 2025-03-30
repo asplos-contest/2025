@@ -37,7 +37,7 @@ All presentations will take place in **Penn room I**.
 | 10:20 -- 10:30 | IOPDDL | Jack Spalding-Jamieson
 | 10:30 -- 11:00 |        | **--- Coffee Break ---**
 | 11:00 -- 11:10 | OPTNKI | *Opening Remarks for Topic #2:<br>An Optimized Neuron Kernel Interface (NKI) Implementation of Llama 3.2 1B (inference)*
-| 11:10 -- 11:20 | OPTNKI | Shaoxun Zeng + Haodi Jiang + Huajun Bai + Ruwen Fan + Shiwei Gao + Yitian Yang + Hao Guo + Youyou Lu (*Tsinghua University*)
+| 11:10 -- 11:20 | OPTNKI | Shiwei Gao*, Ruwen Fan*, Shaoxun Zeng, Haodi Jiang, Huajun Bai, Yitian Yang, Hao Guo, Qing Wang, Jiwu Shu, Youyou Lu (*Tsinghua University*)
 | 11:20 -- 11:30 | OPTNKI | Dongkwan Kim + Chan Lee + Seonyoung Cheon + Kunmo Jeong + Hoyun Youm + Sungwoo Yun + Yongwoo Lee (*Yonsei University*)
 | 11:30 -- 11:40 | IOPDDL | Kenneth Ulrich + Johan Roos
 | 11:40 -- 11:50 | OPTNKI | Dong Li + Dinghong Song + Jierui Xu (*University of California Merced / University of Wisconsin Madison*)
