@@ -10,11 +10,13 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | Second Place 🥈 | $10,000 |  |
 |  | Third Place 🥉 | $5,000 |  |
 
+<!--
 <p align="center">
 <a href="https://forms.gle/k56AmQ764t3ai3Gq7">
 <img src="images/register.png" width="200">
 </a>
 </p>
+-->
 
 # Important Dates 
 
@@ -26,7 +28,7 @@ Teams from around the globe are invited to contribute submissions toward produci
 |  | ~~2025-02-22~~ | Contest Registrations & Preliminary Submissions Due\* ***(deadline extended!)***|  |
 |  | ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/) |  |
 |  | ~~2025-03-10~~ | [Contest Final Submissions Due](https://github.com/aws-samples/nki-llama?tab=readme-ov-file#submission)\* (**EXTENDED**) |  |
-|  | 2025-03-30 | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |  |
+|  | ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |  |
 |  | 2025-04-01 | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |  |
 
 \*[Submissions](https://github.com/aws-samples/nki-llama?tab=readme-ov-file#submission) are due by 11:59pm at any time on Earth.
