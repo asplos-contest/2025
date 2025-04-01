@@ -4,11 +4,15 @@
 
 Teams from around the globe are invited to contribute submissions toward producing the fastest implementation of the Llama 3.2 1B model (inference only), written using the Neuron Kernel Interface (NKI) programming interface and running on Amazon ML hardware (Trainium/Inferentia). Prizes will be awarded to top-ranking teams who commit to open-sourcing their solutions prior to next year's conference.
 
-|  | Rank | Prize |  |
-| :---- | ----: | ----: | :---- |
-|  | First Place 🥇 | $25,000 |  |
-|  | Second Place 🥈 | $10,000 |  |
-|  | Third Place 🥉 | $5,000 |  |
+<div align="center">
+
+| Rank | Prize | Team |
+| ----: | ----: | :---- |
+| First&nbsp;Place&nbsp;🥇 | $25,000 | Shiwei Gao, Ruwen Fan, Shaoxun Zeng, Haodi Jiang, Huajun Bai, Yitian Yang, Hao Guo, Qing Wang, Jiwu Shu, Youyou Lu (*Tsinghua University*) |
+| Second&nbsp;Place&nbsp;🥈 | $10,000 | Dong Li + Dinghong Song + Jierui Xu (*University of California Merced / University of Wisconsin Madison*) |
+| Third&nbsp;Place&nbsp;🥉 | $5,000 | Dongkwan Kim + Chan Lee + Seonyoung Cheon + Kunmo Jeong + Hoyun Youm + Sungwoo Yun + Yongwoo Lee (*Yonsei University*) |
+
+</div>
 
 <!--
 <p align="center">
@@ -20,16 +24,20 @@ Teams from around the globe are invited to contribute submissions toward produci
 
 # Important Dates 
 
-|  | Date | Event |  |
-| :---- | :---: | ----- | :---- |
-|  | ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/) |  |
-|  | ~~2025-01-18~~ | [Contest GitHub Repository & Benchmark Subset Released](https://github.com/aws-samples/nki-llama)  |  |
-|  | ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/) |  |
-|  | ~~2025-02-22~~ | Contest Registrations & Preliminary Submissions Due\* ***(deadline extended!)***|  |
-|  | ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/) |  |
-|  | ~~2025-03-10~~ | [Contest Final Submissions Due](https://github.com/aws-samples/nki-llama?tab=readme-ov-file#submission)\* (**EXTENDED**) |  |
-|  | ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |  |
-|  | 2025-04-01 | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |  |
+<div align="center">
+
+| Date | Event |
+| :---- | :---- |
+| ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/) |
+| ~~2025-01-18~~ | [Contest GitHub Repository & Benchmark Subset Released](https://github.com/aws-samples/nki-llama)  |
+| ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/) |
+| ~~2025-02-22~~ | Contest Registrations & Preliminary Submissions Due\* ***(deadline extended!)***|
+| ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/) |
+| ~~2025-03-10~~ | [Contest Final Submissions Due](https://github.com/aws-samples/nki-llama?tab=readme-ov-file#submission)\* (**EXTENDED**) |
+| ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) |
+| ~~2025-04-01~~ | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
+
+</div>
 
 \*[Submissions](https://github.com/aws-samples/nki-llama?tab=readme-ov-file#submission) are due by 11:59pm at any time on Earth.
 
