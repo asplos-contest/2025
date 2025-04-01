@@ -4,7 +4,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 <div align="center">
 
-| Rank            |   Prize | Team                              | Source Code
+| Rank            |   Prize | Team                              | Source&nbsp;Code
 | --------------: | ------: | --------------------------------- | :---------:
 |  First&nbsp;Place&nbsp;🥇 | $25,000 | Christoph Staudt + Mark Blacher (*Friedrich Schiller University Jena*) | TBD
 | Second&nbsp;Place&nbsp;🥈 | $10,000 | Aleksandr Morozov | TBD
