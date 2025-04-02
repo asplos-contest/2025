@@ -49,6 +49,8 @@ Teams from around the globe are invited to contribute submissions toward solving
 <img src="misc/images/iopddl_final_scores.png" width="450">
 </p>
 
+The full set of results can be found <a href="https://github.com/asplos-contest/2025/blob/main/misc/iopddl_final_results.csv">here</a>.
+
 ## Problem Description
 
 With machine learning models becoming larger and larger, multi-device execution across several slices or pods of hardware accelerators is imperative to meet latency and throughput requirements across training and serving workloads. When executing an ML computation in a distributed manner, a key determinant of performance is the way that computation is sharded across the multiple devices. An example of a 3D tensor sharded onto a 2D device mesh is shown below:
