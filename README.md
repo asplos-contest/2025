@@ -17,4 +17,4 @@ For this inaugural event, the following two contest topics will run concurrently
 
 If you have questions, please reach out to the contest organizers at [asplos.contest@gmail.com](mailto:asplos.contest@gmail.com).
 
-**Click [here](https://github.com/asplos-contest/2025/blob/main/SCHEDULE.md) to view the Special Session Schedule for Sunday, March 30th, 2025**
+**Click [here](https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md) to view the Special Session Schedule for Sunday, March 30th, 2025**
