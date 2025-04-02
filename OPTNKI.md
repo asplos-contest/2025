@@ -17,7 +17,7 @@ Teams from around the globe are invited to contribute submissions toward produci
 <!--
 <p align="center">
 <a href="https://forms.gle/k56AmQ764t3ai3Gq7">
-<img src="images/register.png" width="200">
+<img src="misc/images/register.png" width="200">
 </a>
 </p>
 -->
@@ -73,7 +73,7 @@ Please consult the following GitHub repository for full contest details:
  
 # Contest Sponsor
 
-![Cloud Computing Services - Amazon Web Services (AWS)](https://github.com/asplos-contest/2025/blob/main/images/aws-logo.jpg)
+![Cloud Computing Services - Amazon Web Services (AWS)](https://github.com/asplos-contest/2025/blob/main/misc/images/aws-logo.jpg)
 
 Amazon Web Services
 

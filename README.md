@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/asplos-2025-contest-logo.png">
+<img src="misc/images/asplos-2025-contest-logo.png">
 </p>
 
 The [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) and [EuroSys 2025](https://2025.eurosys.org/) organizers are pleased to announce **The ASPLOS 2025 / EuroSys 2025 Contest Track**:

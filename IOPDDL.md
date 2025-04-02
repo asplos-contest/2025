@@ -18,7 +18,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 <!--
 <p align="center">
 <a href="https://forms.gle/oHf2K6vqPjBwaQWHA">
-<img src="images/register.png" width="200">
+<img src="misc/images/register.png" width="200">
 </a>
 </p>
 -->
@@ -46,7 +46,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 ## Distribution of Final Scores
 
 <p align="center">
-<img src="images/iopddl_final_scores.png" width="450">
+<img src="misc/images/iopddl_final_scores.png" width="450">
 </p>
 
 ## Problem Description
@@ -54,7 +54,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 With machine learning models becoming larger and larger, multi-device execution across several slices or pods of hardware accelerators is imperative to meet latency and throughput requirements across training and serving workloads. When executing an ML computation in a distributed manner, a key determinant of performance is the way that computation is sharded across the multiple devices. An example of a 3D tensor sharded onto a 2D device mesh is shown below:
 
 <p align="center">
-<img src="images/partitioned.png" width="300">
+<img src="misc/images/partitioned.png" width="300">
 </p>
 
 Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
@@ -62,13 +62,13 @@ Sharding a model to minimize exposed communication (e.g., using data parallelism
 As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*, and each strategy is annotated with a corresponding *node cost*.  In addition, certain pairs of nodes are connected by edges, and each pairwise strategy combination incurs a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
 <p align="center">
-<img src="images/costs.png" width="450">
+<img src="misc/images/costs.png" width="450">
 </p>
 
 Finally, nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
 
 <p align="center">
-<img src="images/usages.png" width="450">
+<img src="misc/images/usages.png" width="450">
 </p>
 
 Broadly speaking, the structural characteristics of a benchmark's graph topology and memory profile tend to vary wildly as a function of model task (e.g., training vs. serving) and model modality (e.g., language vs. vision).
