@@ -8,7 +8,7 @@ Teams from around the globe are invited to contribute submissions toward produci
 
 | Rank | Prize | Team |
 | ----: | ----: | :---- |
-| First&nbsp;Place&nbsp;🥇 | $25,000 | Shiwei Gao, Ruwen Fan, Shaoxun Zeng, Haodi Jiang, Huajun Bai, Yitian Yang, Hao Guo, Qing Wang, Jiwu Shu, Youyou Lu (*Tsinghua University*) |
+| First&nbsp;Place&nbsp;🥇 | $25,000 | Shiwei Gao + Ruwen Fan + Shaoxun Zeng + Haodi Jiang + Huajun Bai + Yitian Yang + Hao Guo + Qing Wang + Jiwu Shu + Youyou Lu (*Tsinghua University*) |
 | Second&nbsp;Place&nbsp;🥈 | $10,000 | Dong Li + Dinghong Song + Jierui Xu (*University of California Merced / University of Wisconsin Madison*) |
 | Third&nbsp;Place&nbsp;🥉 | $5,000 | Dongkwan Kim + Chan Lee + Seonyoung Cheon + Kunmo Jeong + Hoyun Youm + Sungwoo Yun + Yongwoo Lee (*Yonsei University*) |
 
