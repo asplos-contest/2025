@@ -186,7 +186,7 @@ The points that a team earns for a particular benchmark is then equal to *<sup>m
 
 ## Presentations
 
-Teams who successfully submit an entry will be invited to present a ~10 minute informal overview of their approach at a special session held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
+Teams who successfully submit an entry will be invited to present a ~10 minute informal overview of their approach at a <a href="https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md">special session</a> held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
 
 ## Contest Eligibility
 
