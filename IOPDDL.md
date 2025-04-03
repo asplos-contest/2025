@@ -107,7 +107,7 @@ To help you get started, we have released a [separate GitHub repository](https:/
 
 </div>
 
-You should be able to use the following commands to download the source codes, compile the project, and run the executable:
+You should be able to issue the following commands to download the source codes, compile the project, and run the executable:
 
 ```
 $ git clone --recursive https://github.com/google/iopddl.git
