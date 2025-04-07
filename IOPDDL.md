@@ -61,8 +61,8 @@ The full set of results can be found <a href="https://github.com/asplos-contest/
   title = {The ASPLOS 2025 / EuroSys 2025 Contest
            on Intra-Operator Parallelism for
            Distributed Deep Learning},
-  booktitle = {Proceedings of the 30th International Conference on
-               Architectural Support for Programming Languages
+  booktitle = {Proceedings of the 30th ACM International Conference
+               on Architectural Support for Programming Languages
                and Operating Systems},
   volume = {3},
   author = {Moffitt, Michael D. and Fegade, Pratik},
