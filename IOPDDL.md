@@ -51,6 +51,28 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 The full set of results can be found <a href="https://github.com/asplos-contest/2025/blob/main/misc/iopddl_final_results.csv">here</a>.
 
+## Coming Soon: Contest Retrospective
+
+<div align="center">
+<table>
+<tr>
+<td><img src="misc/images/iopddl_paper.png"></td>
+<td><pre>@inproceedings{IOPDDL2025,
+  title = {The ASPLOS 2025 / EuroSys 2025 Contest
+           on Intra-Operator Parallelism for
+           Distributed Deep Learning},
+  booktitle = {Proceedings of the 30th International Conference on
+               Architectural Support for Programming Languages
+               and Operating Systems},
+  volume = {3},
+  author = {Moffitt, Michael D. and Fegade, Pratik},
+  year = {2025},
+  series = {ASPLOS 2025}
+}</pre></td>
+</tr>  
+</table>  
+</div>
+
 ## Problem Description
 
 With machine learning models becoming larger and larger, multi-device execution across several slices or pods of hardware accelerators is imperative to meet latency and throughput requirements across training and serving workloads. When executing an ML computation in a distributed manner, a key determinant of performance is the way that computation is sharded across the multiple devices. An example of a 3D tensor sharded onto a 2D device mesh is shown below:
