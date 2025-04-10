@@ -23,35 +23,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 </p>
 -->
 
-## Important Dates
-
-<div align="center">
-
-| Date           | Event                                                                  |
-| -------------- | ---------------------------------------------------------------------- |
-| ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
-| ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
-| ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
-| ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
-| ~~2025-03-01~~ | Contest Final Submissions Due<sup>*</sup>                              |
-| ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
-| ~~2025-03-15~~ | [Special Session Schedule](https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md) Finalized                                     |
-| ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
-| ~~2025-04-01~~ | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
-
-</div>
-
-<sup>*</sup>Submissions are due by 11:59pm at any time on Earth.
-
-## Distribution of Final Scores
-
-<p align="center">
-<img src="misc/images/iopddl_final_scores.png" width="450">
-</p>
-
-The full set of results can be found <a href="https://github.com/asplos-contest/2025/blob/main/misc/iopddl_final_results.csv">here</a>.
-
-## Coming Soon: Contest Retrospective
+## Coming Soon! Contest Retrospective
 
 <div align="center">
 <table>
@@ -72,6 +44,43 @@ The full set of results can be found <a href="https://github.com/asplos-contest/
 </tr>  
 </table>  
 </div>
+
+## Distribution of Final Scores
+
+<p align="center">
+<img src="misc/images/iopddl_final_scores.png" width="450">
+</p>
+
+The full set of results can be found <a href="https://github.com/asplos-contest/2025/blob/main/misc/iopddl_final_results.csv">here</a>.
+
+## Photos from the Award Ceremony
+
+<p align="center">
+<img src="misc/photos/award_ceremony_25.jpg" width="210">
+<img src="misc/photos/award_ceremony_24.jpg" width="210">
+<img src="misc/photos/award_ceremony_22.jpg" width="210">
+<img src="misc/photos/award_ceremony_23.jpg" width="210">
+</p>
+
+## Important Dates
+
+<div align="center">
+
+| Date           | Event                                                                  |
+| -------------- | ---------------------------------------------------------------------- |
+| ~~2024-12-01~~ | Contest [Announced](https://www.sigarch.org/call-participation/the-asplos-2025-eurosys-2025-contest-track/)                                                      |
+| ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
+| ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
+| ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
+| ~~2025-03-01~~ | Contest Final Submissions Due<sup>*</sup>                              |
+| ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
+| ~~2025-03-15~~ | [Special Session Schedule](https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md) Finalized                                     |
+| ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
+| ~~2025-04-01~~ | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
+
+</div>
+
+<sup>*</sup>Submissions are due by 11:59pm at any time on Earth.
 
 ## Problem Description
 
