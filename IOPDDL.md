@@ -28,7 +28,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 <div align="center">
 <table>
 <tr>
-<td><img src="misc/images/iopddl_paper.png"></td>
+<td><img src="misc/images/iopddl_paper.png" width="250"></td>
 <td><pre>@inproceedings{IOPDDL2025,
   title = {The ASPLOS 2025 / EuroSys 2025 Contest
            on Intra-Operator Parallelism for
