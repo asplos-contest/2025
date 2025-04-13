@@ -56,10 +56,10 @@ The full set of results can be found <a href="https://github.com/asplos-contest/
 ## Photos from the Award Ceremony
 
 <p align="center">
-<img src="misc/photos/award_ceremony_25.jpg" width="210">
-<img src="misc/photos/award_ceremony_24.jpg" width="210">
-<img src="misc/photos/award_ceremony_22.jpg" width="210">
-<img src="misc/photos/award_ceremony_23.jpg" width="210">
+<a href="misc/photos/award_ceremony_25.jpg"><img src="misc/photos/award_ceremony_25_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_24.jpg"><img src="misc/photos/award_ceremony_24_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_22.jpg"><img src="misc/photos/award_ceremony_22_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_23.jpg"><img src="misc/photos/award_ceremony_23_thumb.jpg" width="210"></a>
 </p>
 
 ## Important Dates
