@@ -4,23 +4,63 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 <div align="center">
 
-| Rank            |   Prize |
-| --------------: | ------: |
-|  First Place 🥇 | $25,000 |
-| Second Place 🥈 | $10,000 |
-|  Third Place 🥉 |  $5,000 |
-| Fourth Place ⭐ |  $2,000 |
-|  Fifth Place ⭐ |  $1,000 |
+| Rank            |   Prize | Team                              | Source&nbsp;Code
+| --------------: | ------: | --------------------------------- | :---------:
+|  First&nbsp;Place&nbsp;🥇 | $25,000 | Christoph Staudt + Mark Blacher (*Friedrich Schiller University Jena*) | TBD
+| Second&nbsp;Place&nbsp;🥈 | $10,000 | Aleksandr Morozov | TBD
+|  Third&nbsp;Place&nbsp;🥉 |  $5,000 | Stephan Spengler + Samuel Grahn (*Uppsala University*) | TBD
+|    Runner-Up&nbsp;⭐ |  $2,000 | Koki Aoyama (*Osaka University*) | TBD
+|    Runner-Up&nbsp;⭐ |  $2,000 | Haodi Jiang + Yitian Yang + Ruwen Fan + Shiwei Gao + Shaoxun Zeng + Junrong Huang + Huajun Bai + Hao Guo + Youyou Lu (*Tsinghua University*) | TBD
+|    Runner-Up&nbsp;⭐ |  $2,000 | Ava Ye | TBD
 
 </div>
 
 <!--
 <p align="center">
 <a href="https://forms.gle/oHf2K6vqPjBwaQWHA">
-<img src="images/register.png" width="200">
+<img src="misc/images/register.png" width="200">
 </a>
 </p>
 -->
+
+## Coming Soon! Contest Retrospective
+
+<div align="center">
+<table>
+<tr>
+<td><img src="misc/images/iopddl_paper.png" width="250"></td>
+<td><pre>@inproceedings{IOPDDL2025,
+  title = {The ASPLOS 2025 / EuroSys 2025 Contest
+           on Intra-Operator Parallelism for
+           Distributed Deep Learning},
+  booktitle = {Proceedings of the 30th ACM International Conference
+               on Architectural Support for Programming Languages
+               and Operating Systems},
+  volume = {3},
+  author = {Moffitt, Michael D. and Fegade, Pratik},
+  year = {2025},
+  series = {ASPLOS 2025}
+}</pre></td>
+</tr>  
+</table>  
+</div>
+
+## Distribution of Final Scores
+
+<p align="center">
+<img src="misc/images/iopddl_final_scores.png" width="450">
+</p>
+
+The full set of results can be found <a href="https://github.com/asplos-contest/2025/blob/main/misc/iopddl_final_results.csv">here</a>.
+
+## Photos from the Award Ceremony
+
+<p align="center">
+<a href="misc/photos/award_ceremony_25.jpg"><img src="misc/photos/award_ceremony_25_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_24.jpg"><img src="misc/photos/award_ceremony_24_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_22.jpg"><img src="misc/photos/award_ceremony_22_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_23.jpg"><img src="misc/photos/award_ceremony_23_thumb.jpg" width="210"></a>
+</p>
 
 ## Important Dates
 
@@ -32,11 +72,11 @@ Teams from around the globe are invited to contribute submissions toward solving
 | ~~2024-12-02~~ | Contest [GitHub Repository](https://github.com/google/iopddl) (including [Benchmark Subset](https://github.com/google/iopddl/tree/main/benchmarks)) Released                  |
 | ~~2025-02-03~~ | Application Deadline for [Student Travel Grants](https://www.asplos-conference.org/asplos2025/student-travel-grants/)                                 |
 | ~~2025-02-15~~ | Contest [Registrations](https://forms.gle/oHf2K6vqPjBwaQWHA) & Preliminary Submissions Due<sup>*</sup>        |
-|   2025-03-01   | Contest Final Submissions Due<sup>*</sup>                              |
-|   2025-03-03   | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
-|   2025-03-15   | Special Session Schedule Finalized & Full Benchmark Set Released                                            |
-|   2025-03-30   | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
-|   2025-04-01   | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
+| ~~2025-03-01~~ | Contest Final Submissions Due<sup>*</sup>                              |
+| ~~2025-03-03~~ | [Early Registration Deadline for ASPLOS 2025 / EuroSys 2025](https://www.asplos-conference.org/asplos2025/registration/)             |
+| ~~2025-03-15~~ | [Special Session Schedule](https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md) Finalized                                     |
+| ~~2025-03-30~~ | Contest Special Session during [ASPLOS 2025 / EuroSys 2025 Workshops](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/)    |
+| ~~2025-04-01~~ | Contest Winners Announced during ASPLOS 2025 / EuroSys 2025 Conference |
 
 </div>
 
@@ -47,7 +87,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 With machine learning models becoming larger and larger, multi-device execution across several slices or pods of hardware accelerators is imperative to meet latency and throughput requirements across training and serving workloads. When executing an ML computation in a distributed manner, a key determinant of performance is the way that computation is sharded across the multiple devices. An example of a 3D tensor sharded onto a 2D device mesh is shown below:
 
 <p align="center">
-<img src="images/partitioned.png" width="300">
+<img src="misc/images/partitioned.png" width="300">
 </p>
 
 Sharding a model to minimize exposed communication (e.g., using data parallelism or operator parallelism) can lead to significant performance gains.  Unfortunately, given that model computations regularly contain hundreds or thousands of tensors and HLO ops, manually specifying how each should be executed across multiple devices is usually not feasible.  Your challenge is to design an algorithm capable of efficiently and effectively performing this task.
@@ -55,13 +95,13 @@ Sharding a model to minimize exposed communication (e.g., using data parallelism
 As input, the algorithm will accept a graph (see: [example.json](https://github.com/google/iopddl/blob/main/example.json)) where nodes are associated with one or more *strategies*, and each strategy is annotated with a corresponding *node cost*.  In addition, certain pairs of nodes are connected by edges, and each pairwise strategy combination incurs a corresponding *edge cost*.  Solutions should select one strategy per node that minimizes total cost as much as possible.
 
 <p align="center">
-<img src="images/costs.png" width="450">
+<img src="misc/images/costs.png" width="450">
 </p>
 
 Finally, nodes also incur a strategy-specific memory *usage* over a fixed time interval.  The sum of usages at any given time point in a solution must not eclipse the *usage limit* for that benchmark.
 
 <p align="center">
-<img src="images/usages.png" width="450">
+<img src="misc/images/usages.png" width="450">
 </p>
 
 Broadly speaking, the structural characteristics of a benchmark's graph topology and memory profile tend to vary wildly as a function of model task (e.g., training vs. serving) and model modality (e.g., language vs. vision).
@@ -98,7 +138,7 @@ To help you get started, we have released a [separate GitHub repository](https:/
 
 </div>
 
-You should be able to use the following commands to download the source codes, compile the project, and run the executable:
+You should be able to issue the following commands to download the source codes, compile the project, and run the executable:
 
 ```
 $ git clone --recursive https://github.com/google/iopddl.git
@@ -177,7 +217,7 @@ The points that a team earns for a particular benchmark is then equal to *<sup>m
 
 ## Presentations
 
-Teams who successfully submit an entry will be invited to present an informal overview of their approach (roughly 10 to 15 minutes) at a special session held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
+Teams who successfully submit an entry will be invited to present a ~10 minute informal overview of their approach at a <a href="https://github.com/asplos-contest/2025/blob/main/misc/SCHEDULE.md">special session</a> held on March 30th during the [Workshop & Tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) days.  Winners will be announced later in the week, with full results being released soon after the conference.
 
 ## Contest Eligibility
 
