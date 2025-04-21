@@ -22,6 +22,14 @@ Teams from around the globe are invited to contribute submissions toward produci
 </p>
 -->
 
+## Photos from the Award Ceremony
+
+<p align="center">
+<a href="misc/photos/award_ceremony_19.jpg"><img src="misc/photos/award_ceremony_19_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_20.jpg"><img src="misc/photos/award_ceremony_20_thumb.jpg" width="210"></a>
+<a href="misc/photos/award_ceremony_21.jpg"><img src="misc/photos/award_ceremony_21_thumb.jpg" width="210"></a>
+</p>
+
 # Important Dates 
 
 <div align="center">
