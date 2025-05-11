@@ -255,6 +255,10 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  * A few of our benchmarks are quite large, and might take a while to load.  As a result, we'll be generous in enforcing timeout limits ... i.e., given a 300-second limit, your program will be allowed to run for 310 seconds (assuming 10 seconds of file I/O are needed for that benchmark).
 
+ ***For this problem, what benefits are achieved by solutions with lower cost?***
+
+ * Lower-cost solutions will roughly translate to higher accelerator performance (i.e., a reduction in step times for the corresponding training / inference workloads).  The improvement may not be directly *proportional* to cost, but should be directionally correct.
+
 ## Related Work
 
  * Du et al. [*Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference*](https://doi.org/10.1145/3627535.3638466). PPoPP 2024.
