@@ -257,7 +257,7 @@ To raise a question, please create an issue in this repository, or feel free to 
 
  ***For this problem, what benefits are achieved by solutions with lower cost?***
 
- * Lower-cost solutions will roughly translate to higher accelerator performance (i.e., a reduction in step times for the corresponding training / inference workloads).  The improvement may not be directly *proportional* to cost, but should be directionally correct.
+ * Lower-cost solutions will roughly translate to higher accelerator performance (i.e., a reduction in step times for the corresponding training / inference workloads).  The improvement may not be exactly *proportional* to cost, but should be directionally correct.
 
 ## Related Work
 
