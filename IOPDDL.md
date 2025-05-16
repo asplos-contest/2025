@@ -39,7 +39,9 @@ Teams from around the globe are invited to contribute submissions toward solving
   volume = {3},
   author = {Moffitt, Michael D. and Fegade, Pratik},
   year = {2025},
-  series = {ASPLOS 2025}
+  series = {ASPLOS 2025},
+  url = {https://doi.org/10.1145/3676642.3736399},
+  doi = {10.1145/3676642.3736399}
 }</pre></td>
 </tr>  
 </table>  
