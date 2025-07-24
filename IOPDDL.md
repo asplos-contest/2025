@@ -10,7 +10,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 | Second&nbsp;Place&nbsp;🥈 | $10,000 | Aleksandr Morozov | [\[code\]](https://github.com/scanhex/iopddl)
 |  Third&nbsp;Place&nbsp;🥉 |  $5,000 | Stephan Spengler + Samuel Grahn (*Uppsala University*) | [\[code\]](https://github.com/StephanSpengler/iopddl-submission)
 |    Runner-Up&nbsp;⭐ |  $2,000 | Koki Aoyama (*Osaka University*) | [\[code\]](https://github.com/kotamanegi/iopddl-solution/tree/submitted_version)
-|    Runner-Up&nbsp;⭐ |  $2,000 | Haodi Jiang + Yitian Yang + Ruwen Fan + Shiwei Gao + Shaoxun Zeng + Junrong Huang + Huajun Bai + Hao Guo + Youyou Lu (*Tsinghua University*) | TBD
+|    Runner-Up&nbsp;⭐ |  $2,000 | Haodi Jiang + Yitian Yang + Ruwen Fan + Shiwei Gao + Shaoxun Zeng + Junrong Huang + Huajun Bai + Hao Guo + Youyou Lu (*Tsinghua University*) | [\[code\]](https://github.com/thustorage/iopddl)
 |    Runner-Up&nbsp;⭐ |  $2,000 | Ava Ye | TBD
 
 </div>
