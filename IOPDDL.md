@@ -25,7 +25,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 ## Hot off the Press! Contest Retrospective
 
-Available from the ACM Digital Library at https://dl.acm.org/doi/proceedings/10.1145/3676642.
+Available from the ACM Digital Library at [https://dl.acm.org/doi/proceedings/10.1145/3676642](https://dl.acm.org/doi/10.1145/3676642.3736399).
 
 <div align="center">
 <table>
