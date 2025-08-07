@@ -23,7 +23,9 @@ Teams from around the globe are invited to contribute submissions toward solving
 </p>
 -->
 
-## Coming Soon! Contest Retrospective
+## Hot off the Press! Contest Retrospective
+
+Available from the ACM Digital Library at https://dl.acm.org/doi/proceedings/10.1145/3676642.
 
 <div align="center">
 <table>
@@ -41,7 +43,8 @@ Teams from around the globe are invited to contribute submissions toward solving
   year = {2025},
   series = {ASPLOS 2025},
   url = {https://doi.org/10.1145/3676642.3736399},
-  doi = {10.1145/3676642.3736399}
+  doi = {10.1145/3676642.3736399},
+  pages = {5--17}
 }</pre></td>
 </tr>  
 </table>  
