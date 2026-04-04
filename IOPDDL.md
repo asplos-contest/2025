@@ -6,7 +6,7 @@ Teams from around the globe are invited to contribute submissions toward solving
 
 | Rank            |   Prize | Team                              | Links
 | --------------: | ------: | --------------------------------- | :---------:
-|  First&nbsp;Place&nbsp;🥇 | $25,000 | Christoph Staudt + Mark Blacher (*Friedrich Schiller University Jena*) | TBD
+|  First&nbsp;Place&nbsp;🥇 | $25,000 | Christoph Staudt + Mark Blacher (*Friedrich Schiller University Jena*) | [\[code\]](https://github.com/ti2-group/iopddl)
 | Second&nbsp;Place&nbsp;🥈 | $10,000 | Aleksandr Morozov | [\[code\]](https://github.com/scanhex/iopddl)
 |  Third&nbsp;Place&nbsp;🥉 |  $5,000 | Stephan Spengler + Samuel Grahn (*Uppsala University*) | [\[code\]](https://github.com/StephanSpengler/iopddl-submission)
 |    Runner-Up&nbsp;⭐ |  $2,000 | Koki Aoyama (*Osaka University*) | [\[code\]](https://github.com/kotamanegi/iopddl-solution/tree/submitted_version)
